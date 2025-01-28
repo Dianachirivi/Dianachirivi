@@ -2,7 +2,7 @@
 
 ---
 
-### 🧑‍💻 *Sobre mí*  
+### 💃 *Sobre mí*  
 
 - 📍 *Ubicación:* <a href="https://www.google.com/maps/search/Colombia/" target="_blank">Colombia</a> 🇨🇴  
 - 📧 *Correo:* [dianachiriviamaya@gmail.com](mailto:dianachiriviamaya@gmail.com)  
