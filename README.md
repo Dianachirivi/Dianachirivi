@@ -13,7 +13,7 @@
 - [SENA](https://www.sena.edu.co/) 🇨🇴
 - [Universidad del Tolima](http://www.ut.edu.co/) 🇨🇴
 
-Soy un estudiante de tecnóloga en Análisis y Desarrollo de Software del SENA y licenciada en Educación Infantil, con una trayectoria que combina más de 13 años de experiencia en el ámbito psicosocial y habilidades técnicas avanzadas en desarrollo de software. 
+Soy un estudiante de tecnólogia en Análisis y Desarrollo de Software del SENA y licenciada en Educación Infantil, con una trayectoria que combina más de 13 años de experiencia en el ámbito psicosocial y habilidades técnicas avanzadas en desarrollo de software. 
 
 Mi capacidad para trabajar en proyectos interdisciplinarios, aplicar metodologías ágiles y adaptar tecnologías a contextos diversos me posiciona como una profesional versátil, orientada a generar impacto en los grandes desafíos del sector tecnológico. Además, mi compromiso con la mejora continua y la formación en habilidades blandas complementa mi visión estratégica y mi capacidad para liderar iniciativas transformadoras en entornos altamente dinámicos.
 
