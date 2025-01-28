@@ -9,11 +9,11 @@
 - 📧 *Correo:* [dianachiriviamaya@gmail.com](mailto:dianachiriviamaya@gmail.com)
   
 - 🎓 *Estudios:*
-- 💻*Tecnologa en Análisis y Desarrollo de Software*
-- 🏫 *Institución:* [SENA](https://www.sena.edu.co/) 🇨🇴
+     - 💻*Tecnologa en Análisis y Desarrollo de Software*
+     - 🏫 *Institución:* [SENA](https://www.sena.edu.co/) 🇨🇴
   
-- 👩‍🏫*Lic. Pedagogia infantil*
-- 🏫 *Institución:* [Universidad del Tolima](http://www.ut.edu.co/) 🇨🇴
+     - 👩‍🏫*Lic. Pedagogia infantil*
+     - 🏫 *Institución:* [Universidad del Tolima](http://www.ut.edu.co/) 🇨🇴
 
 Soy un estudiante de tecnólogia en Análisis y Desarrollo de Software del SENA y licenciada en Educación Infantil, con una trayectoria que combina más de 13 años de experiencia en el ámbito psicosocial y habilidades técnicas avanzadas.
 
